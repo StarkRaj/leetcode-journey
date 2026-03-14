@@ -30,9 +30,3 @@ public:
         return ans;
     }
 };
-
-int main() {
-    Solution obj;
-    int ans = obj.minFlips("111000");
-    return 0;
-}
